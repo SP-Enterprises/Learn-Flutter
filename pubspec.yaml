@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_maps_flutter: ^2.9.0
   shared_preferences: ^2.3.1
+  audioplayers: ^6.1.0
+  video_player: ^2.9.1
 
 dev_dependencies:
   flutter_test:
@@ -65,6 +67,7 @@ flutter:
       # If you want to include all images in a directory, use the following syntax:
       - assets/logo/logo.png
       - assets/text/about-nuv.txt
+      - assets/my-data.json
 
 
 

@@ -1,0 +1,19 @@
+{
+  "name": "Samir Pathan",
+  "age": 23,
+  "isActive": true,
+  "email": "connectspenterprise@gmail.com",
+  "hobbies": [
+    "coding",
+    "reading",
+    "traveling"
+  ],
+  "address": {
+    "street": "SP House, Aadil Park, 33",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "postalCode": "390012"
+  }
+}
+
+  
